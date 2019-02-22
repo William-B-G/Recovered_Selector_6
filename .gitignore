@@ -1,0 +1,12 @@
+# .gitignore file
+*.map
+*.elf
+*.7z
+*~
+x*
+iodat_old/
+controller/controller_Data
+*.tdt
+git*.exe
+/Photos
+

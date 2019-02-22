@@ -1,0 +1,20 @@
+;$FILEVERSION=1.3
+;$STARTTIME=43467.3819633275
+;
+;   F:\Galx_1133 Selector 6 box\PCAN_Data\ENC_CAN\Trace5.trc
+;   Start time: 1/2/2019 09:10:01.631.4
+;-------------------------------------------------------------------------------
+;   Bus  Name        Connection           Protocol
+;   1    CEDS_2_CAN  CEDS_2_CAN@pcan_usb  CAN
+;-------------------------------------------------------------------------------
+;   Message Number
+;   |         Time Offset (ms)
+;   |         |       Bus
+;   |         |       |    Type
+;   |         |       |    |       ID (hex)
+;   |         |       |    |       |    Reserved
+;   |         |       |    |       |    |   Data Length Code
+;   |         |       |    |       |    |   |    Data Bytes (hex) ...
+;   |         |       |    |       |    |   |    |
+;   |         |       |    |       |    |   |    |
+;---+-- ------+------ +- --+-- ----+--- +- -+-- -+ -- -- -- -- -- -- --
